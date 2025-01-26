@@ -6,54 +6,54 @@ let galleryarray = [
         id: 1,
         name: "Apple iphone14",
         src:  "./images/iphone14.jpeg",
-        desc: " Lorem ipsum dolor sit amet consectetur"
+        desc: " fastest smartphone in the world "
     },
     {
         id: 2,
         name: "Digital Watch",
         src: "./images/digitalwatch.jpg",
-        desc: " Lorem ipsum dolor sit amet consectetur"
+        desc: " has more advanced features "
 
     },
     {
         id: 3,
         name: "Headphones",
         src: "./images/headphone.jpg",
-        desc: " Lorem ipsum dolor sit amet consectetur"
+        desc: " best headphones with max sound quality "
 
     },
     {
         id: 4,
         name: "Mobile Cover",
         src: "./images/mobilecover.jpeg",
-        desc: " Lorem ipsum dolor sit amet consectetur "
+        desc: " protect your phone at any case "
 
     },
     {
         id: 5,
         name: "Earphones",
         src: "./images/earphones.jpeg",
-        desc: " Lorem ipsum dolor sit amet consectetur "
+        desc: " feel the magic of music  "
 
     },
     {
         id: 6,
         name: "Samsung Galaxy",
         src: "./images/samsung.jpeg",
-        desc: " Lorem ipsum dolor sit amet consectetur "
+        desc: " best camera smart phone  "
     },
     {
         id:7,
         name:"Mobile Charger",
         src: "./images/mobilecharger.jpeg",
-        desc:" Lorem ipsum dolor sit amet consectetur"
+        desc:" Full charge in 15 minutes "
         
     },
     {
         id:8,
         name:"Apple iphone15",
         src: "./images/iphone15.jpeg",
-        desc: " Lorem ipsum dolor sit amet consectetur"
+        desc: " New smart phone with new features"
     }
 
 ]
