@@ -6,13 +6,13 @@ let galleryarray = [
         id: 1,
         name: "Apple iphone14",
         src:  "./images/iphone14.jpeg",
-        desc: " fastest smartphone in the world "
+        desc: " fastest smartphone with better camera"
     },
     {
         id: 2,
         name: "Digital Watch",
         src: "./images/digitalwatch.jpg",
-        desc: " has more advanced features "
+        desc: " track your daily progress  "
 
     },
     {
@@ -26,7 +26,7 @@ let galleryarray = [
         id: 4,
         name: "Mobile Cover",
         src: "./images/mobilecover.jpeg",
-        desc: " protect your phone at any case "
+        desc: " long lasting and good looking "
 
     },
     {
@@ -40,13 +40,13 @@ let galleryarray = [
         id: 6,
         name: "Samsung Galaxy",
         src: "./images/samsung.jpeg",
-        desc: " best camera smart phone  "
+        desc: " best camera smart phone in series "
     },
     {
         id:7,
         name:"Mobile Charger",
         src: "./images/mobilecharger.jpeg",
-        desc:" Full charge in 15 minutes "
+        desc:" Full charge in 25 minutes "
         
     },
     {

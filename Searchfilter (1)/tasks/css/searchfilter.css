@@ -9,7 +9,7 @@ body {
     font-family: "Poppins", sans-serif;
 }
 :root {
-    --bg-color: #152942;
+    --bg-color: rgb(65,100,200);
     --text-color1: #41d5ce;
     --text-color2: #ffffff;
     --btn-color: #ffcd4b;
@@ -83,6 +83,7 @@ body {
 
 /*======================= Product Card ========================== */
 .card {
+  
     border-radius: 20px;
     overflow: hidden;
     border: 0;
@@ -202,7 +203,7 @@ ul{
     transform: translateY(-5px);
 }
 .youtube-icon {
-    background-color: red;
+    background-color: orangered;
 }
 .twitter-icon {
     background-color: rgb(29, 155, 240)
