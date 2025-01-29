@@ -40,7 +40,7 @@ let galleryarray = [
         id: 6,
         name: "Samsung Galaxy",
         src: "./images/samsung.jpeg",
-        desc: " best camera smart phone in series "
+        desc: " best camera smart phone's in series "
     },
     {
         id:7,
