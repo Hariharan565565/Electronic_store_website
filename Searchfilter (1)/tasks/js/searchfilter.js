@@ -33,7 +33,7 @@ let galleryarray = [
         id: 5,
         name: "Earphones",
         src: "./images/earphones.jpeg",
-        desc: " feel the magic of music  "
+        desc: " feel the magic of music in your ears"
 
     },
     {
