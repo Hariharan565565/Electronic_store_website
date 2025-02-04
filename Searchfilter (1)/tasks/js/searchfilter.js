@@ -19,7 +19,7 @@ let galleryarray = [
         id: 3,
         name: "Headphones",
         src: "./images/headphone.jpg",
-        desc: " best headphones with max sound quality "
+        desc: " headphones with max sound quality "
 
     },
     {
