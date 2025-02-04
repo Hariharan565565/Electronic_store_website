@@ -12,7 +12,7 @@ let galleryarray = [
         id: 2,
         name: "Digital Watch",
         src: "./images/digitalwatch.jpg",
-        desc: " track your daily progress  "
+        desc: " track your progress  "
 
     },
     {
