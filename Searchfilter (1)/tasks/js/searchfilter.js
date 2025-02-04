@@ -26,7 +26,7 @@ let galleryarray = [
         id: 4,
         name: "Mobile Cover",
         src: "./images/mobilecover.jpeg",
-        desc: " long lasting and good looking "
+        desc: " fantastic and good looking "
 
     },
     {
