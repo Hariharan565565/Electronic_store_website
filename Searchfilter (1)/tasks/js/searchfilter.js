@@ -53,7 +53,7 @@ let galleryarray = [
         id:8,
         name:"Apple iphone15",
         src: "./images/iphone15.jpeg",
-        desc: "all New smart phone with new features"
+        desc: " New smart phone with new features"
     }
 
 ]
