@@ -46,7 +46,7 @@ let galleryarray = [
         id:7,
         name:"Mobile Charger",
         src: "./images/mobilecharger.jpeg",
-        desc:" Fully charge in 25 minutes "
+        desc:" Fully charged in 25 minutes "
         
     },
     {
